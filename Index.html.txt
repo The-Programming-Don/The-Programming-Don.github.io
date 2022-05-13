@@ -1,1 +1,7 @@
-<h1>Name</h1>
+<h1>Caleb</h1>
+<h3>Profile</h3>
+<ul>
+    <li>Started: 13/05/2022</li>
+    <li>Role: Software Developer</li>
+    <li>Hobbies: Cars, Skating, Gaming</li>
+</ul>
